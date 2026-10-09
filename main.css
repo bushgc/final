@@ -95,6 +95,109 @@ padding: 0 1rem;
   margin: 1rem 1rem 1rem 1rem;
 }
 
+.ingredients-section {
+max-width: 600px;
+margin: 30px auto;
+padding: 25px 30px;
+background-color: #fffaf5;
+border: 1px solid #eadbd2;
+border-radius: 12px;
+}
+
+
+.ingredients-section h2 {
+color: #ff9dab;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 28px;
+text-align: center;
+margin-top: 0;
+margin-bottom: 20px;
+padding-bottom: 12px;
+border-bottom: 2px solid #ffd0d7;
+}
+
+
+.ingredients-list {
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+
+.ingredients-list li {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 17px;
+line-height: 1.6;
+color: black;
+padding: 10px 12px;
+margin-bottom: 6px;
+background-color: #ffffff;
+border-radius: 6px;
+}
+
+.ingredients-section h2 {
+font-size: 24px;
+}
+
+.ingredients-list li {
+font-size: 16px;
+padding: 9px;
+}
+
+.steps-section {
+max-width: 600px;
+margin: 30px auto;
+padding: 25px 30px;
+background-color: #fffaf5;
+border: 1px solid #eadbd2;
+border-radius: 12px;
+}
+
+.steps-section h2 {
+color: #ff9dab;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 28px;
+text-align: center;
+margin-top: 0;
+margin-bottom: 20px;
+padding-bottom: 12px;
+border-bottom: 2px solid #ffd0d7;
+}
+
+.steps-list {
+padding-left: 35px;
+margin: 0;
+}
+
+.steps-list li {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 17px;
+line-height: 1.7;
+color: black;
+padding: 12px 14px;
+margin-bottom: 10px;
+background-color: #f7eee9;
+border-radius: 8px;
+}
+
+.steps-list li::marker {
+color: #9b5d65;
+font-weight: bold;
+font-size: 17px;
+}
+
+.steps-section h2 {
+font-size: 24px;
+}
+
+.steps-list {
+padding-left: 30px;
+}
+
+.steps-list li {
+font-size: 16px;
+padding: 10px;
+}
 
 footer {
   background-color: #ffd0d7;
