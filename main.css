@@ -85,7 +85,7 @@ padding: 0 1rem;
   font-size: 150%;
   color: #ffd0d7;
   border-bottom: 1px solid #ffd0d7;
-  text-shadow: 1px 1px 5px black;
+  text-shadow: 1px 1px 5px #ffd0d7;
 }
 
 .pics {
